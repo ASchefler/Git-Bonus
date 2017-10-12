@@ -1,4 +1,4 @@
 # Git-Bonus
-What has a face but no head, hands but no arms?
+What has a head and a tail but no body?
 
-I
+R
