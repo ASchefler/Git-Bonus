@@ -1,2 +1,4 @@
 # Git-Bonus
-Checkout the branch of the codeword you should have figured out.
+Tear one off and scratch my head what was red is black instead.
+
+O
