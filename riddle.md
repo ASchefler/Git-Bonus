@@ -1,4 +1,4 @@
 # Git-Bonus
-What can you catch but not throw?
+What five-letter word becomes shorter when you add two letters to it?
 
-N
+C
